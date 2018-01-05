@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial;
+  background-image: url("../../images/starwars.jpg");
+  background-size: cover;
+}
+
+.HomeLayout {
+  display: flex;
+  margin: o auto;
+  min-height: 100vh;
+}
+
